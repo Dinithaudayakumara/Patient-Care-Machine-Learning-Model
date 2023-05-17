@@ -1,0 +1,12 @@
+fastapi==0.95.1
+gensim==4.3.0
+joblib==1.1.1
+motor==3.1.2
+nltk==3.7
+pandas==2.0.0
+pydantic==1.10.7
+pymongo==4.3.3
+python-dotenv==1.0.0
+scikit_learn==1.2.2
+textblob==0.17.1
+uvicorn
